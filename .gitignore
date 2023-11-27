@@ -27,3 +27,7 @@ dist-ssr
 ## Envs
 
 *.env
+
+## Scripts
+
+*.sh
